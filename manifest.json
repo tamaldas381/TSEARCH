@@ -1,0 +1,27 @@
+{
+	"manifest_version": 2,
+	"name": "Tsearch",
+	"version": "1.0",
+	"description":  "tamal developer",
+
+
+	"browser_action": {
+		"default_popup":"popup.html",
+		"default_icon" : {
+			"16":"td_16.png",
+			"32":"td_32.png",
+			"48":"td_48.png",
+			"128":"td_128.png"
+
+}
+
+},
+	
+
+	"icons":{
+		"16":"td_16.png",
+		"32":"td_32.png",
+		"48":"td_48.png",
+		"128":"td_128.png"
+	}
+}
